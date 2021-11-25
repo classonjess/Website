@@ -1,6 +1,7 @@
 # Website
 Welcome to the first junior website I have created! I am currently brushing up on my CSS, HMTL and Javascript skills.
 
+<img width="1440" alt="Screen Shot 2021-11-25 at 11 29 31" src="https://user-images.githubusercontent.com/84048634/143476673-9609f8de-8891-49fe-9fa7-6b372810fd2e.png">
 
 
 Copyright (c) 2020 John Williams
